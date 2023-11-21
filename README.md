@@ -3,4 +3,4 @@
 
 Some about me:
 - 🌱 I’m currently learning Flutter, PHP (Laravel and Codeigniter) 
-- ⚡ Fun fact: I love coding
+- ⚡ The fact is: I'm just an ordinary person who really likes coding
