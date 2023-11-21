@@ -1,5 +1,5 @@
 # Bismillah
-### Assalaamu'alaykum 👋
+### Assalaamu'alaykum 
 
 # **About Me**
 Hi... I'm Hazmi, I'm just an ordinary person who really likes coding.<br>
@@ -10,4 +10,5 @@ I like to share and works with anyone who can make us a better and usefull perso
 <!-- Skills -->
 # **My Skills**
 :mobile_phone_off: Android Development using Flutter <br>
-:desktop_computer: Fullstak Web Development using PHP (Codeigniter and Laravel)<br>
+:desktop_computer: Fullstack Web Development using PHP (Codeigniter and Laravel)<br>
+:office: Advance level in Ms. Office (Excel and Access)<br>
