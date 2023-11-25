@@ -3,9 +3,9 @@
 
 # **About Me**
 Hi... I'm Hazmi, I'm just an ordinary person who really likes coding.<br>
-Youtube, Stack Overflow, and some coding forums are my references <br>
-for coding since i don't have any IT background.<br>
-I like to share and works with anyone who can make us a better and usefull person.<br>
+Since I don't have any IT background, Youtube, Stack Overflow, and some coding forums are my references 
+for coding .<br>
+I like to share and works with anyone for improvement so we can be better and usefull person.<br>
 
 <!-- Skills -->
 # **My Skills**
